@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "dupe-trail",
+  "version": "${version}",
+  "name": "Dupe Trail",
+  "description": "Dupe. Trail.",
+  "authors": [
+    "DuncanRuns"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/dupe-trail/icon.png",
+  "environment": "*",
+  "mixins": [
+    "dupe-trail.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.9"
+  }
+}
